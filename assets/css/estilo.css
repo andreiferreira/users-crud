@@ -1,0 +1,13 @@
+#tabela{
+    margin-top: 50px;
+    border: 1px solid red;
+    width: 90vw;
+}
+
+#tabela-id{
+    border: 1px solid black;
+}
+
+#tabela-nome{
+    border: 1px solid black;
+}
